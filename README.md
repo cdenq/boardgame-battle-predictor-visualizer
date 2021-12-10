@@ -1,6 +1,6 @@
 # boardgame-battle-predictor-visualizer
 
-## Kemet VBA Battle Calculator
+## About Kemet VBA Battle Calculator
 
 `Kemet VBA Battle Calculator` is VBA script exercise that automatically tabulates all the possible outcomes of a combat engagement in the board game Kemet. Based on an older, manual version of the calculator that uses conditional formatting and formulas.
 
